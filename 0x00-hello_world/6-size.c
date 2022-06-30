@@ -4,7 +4,9 @@
 
 /**
  * printing out the size of data types in byte(s)
+ * main entry point
  * main - Entry point
+ * return 0: (success)
  * Return: Always 0 (Success)
  */
 

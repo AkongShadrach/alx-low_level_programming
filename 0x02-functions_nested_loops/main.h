@@ -18,6 +18,8 @@ void times_table(void);
 int add(int var1, int var2);
 void print(int n);
 void print_to_98(int var);
+void print_remaining_days(int month, int day, int year);
+
 
 
 #endif

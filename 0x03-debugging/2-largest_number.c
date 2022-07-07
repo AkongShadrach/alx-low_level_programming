@@ -24,5 +24,5 @@ int largest_number(int var1, int var2, int var3)
 	else
 		largest = var2;
 
-	return (0);
+	return (largest);
 }
